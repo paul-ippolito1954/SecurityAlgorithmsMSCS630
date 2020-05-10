@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AESDroid</string>
+    <string name="aes_droid">AES Droid</string>
+    <string name="encrypt">encrypt</string>
+    <string name="success">Success</string>
+    <string name="message">Message</string>
+    <string name="key">Key</string>
+    <string name="encrypted_message_will_appear_here">Encrypted Message will appear here</string>
+    <string name="encrypted_message">Encrypted Message</string>
+    <string name="key_optional">Key(optional)</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="decrypted_message_will_go_here">Decrypted Message will go here</string>
+    <string name="main_menu">Main Menu</string>
+</resources>
